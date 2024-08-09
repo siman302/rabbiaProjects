@@ -1,0 +1,41 @@
+#myBlog{
+    text-align: center;
+    background-color: rgba(92, 10, 168, 0.961);
+    padding-top: 1;
+    padding-bottom: 15;
+    color: white;
+}
+
+a{
+    padding-left: 5;
+    padding-right: 5;
+}
+.myArticles{
+    margin: 20;
+}
+#footer{
+    text-align: center;
+    background-color: blueviolet;
+    padding-top: 1;
+    padding-bottom: 1;
+    color: white;
+}
+h3{
+    margin:5;
+
+}
+p{
+   
+    margin:5;
+}
+hr{
+    margin-top: 15;
+    margin-bottom: 15;
+}
+article{
+    line-height: 1.5;
+    background-color: white;
+    border-radius: 8px;
+    padding: 8;
+    box-shadow: rgb(183, 167, 167) 3px 4px;
+}
